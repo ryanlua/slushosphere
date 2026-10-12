@@ -89,3 +89,11 @@ Discounts you can use if you are a student and doing this project.
 If you're using a different GPS, make sure it works over 60,000 ft since most do not.
 
 If you're using a barometer to get pressure and derive altitude from it, make sure records as low as 10 hPa or you may get inaccurate altitude. Most barometers don't measure that low.
+
+### Related projects
+
+Check out the other projects that participated in Apex:
+
+* [SkyCell](https://github.com/knivier/SkyCell)
+* [StratoSpore](https://github.com/radeeyate/StratoSpore)
+* [Odyssey](https://github.com/MeghanaM4/Odyssey)
