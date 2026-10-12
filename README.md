@@ -90,9 +90,14 @@ If you're using a different GPS, make sure it works over 60,000 ft since most do
 
 If you're using a barometer to get pressure and derive altitude from it, make sure records as low as 10 hPa or you may get inaccurate altitude. Most barometers don't measure that low.
 
-### Related projects
+### Photos and videos
 
-Check out the other projects that participated in Apex:
+All of the media taken during Apex is available on the [Apex Photos and Videos](https://drive.google.com/drive/folders/1NloSdFL1uKPfpWGejH83VkN2vZRmzYxZ?usp=sharing
+) Google Drive folder.
+
+### Other projects
+
+Check out the other 15 projects that participated in Apex and were launched aside with our's:
 
 * [SkyCell](https://github.com/knivier/SkyCell)
 * [StratoSpore](https://github.com/radeeyate/StratoSpore)
